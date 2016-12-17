@@ -1,0 +1,3 @@
+0.1.0
+-----
+  - initial release with 3 tokenizers and 13 similarity functions
