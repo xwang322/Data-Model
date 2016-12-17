@@ -1,0 +1,98 @@
+﻿Method 1
+
+13:brother=====should be null Brother compatible cartridge doesn’t mean brother=====
+18:ge=======should be Gentec=======================
+20:royal=======Royal Consumer =========================
+24:office star===========Dell=====================
+25:office star===========Dell=====================
+26:blackberry===========NULL==================
+31:hubbell========HUB CITY============================
+34:case logic====CASE FOR IPHONE 6 BUT NO BRAND=======================
+37:premium compatibles======NULL==========================
+38:office star=======Lenovo========================
+56:flex============NULL============================
+58:fiber clear============NULL============================
+64:spi=============Nintendo========================
+67:sp=============SpaceSaver ========================
+70:intellinet===========Intel================
+72:g==============Grace Digital================
+75:intellinet===========Intel================
+82:diamond multimedia============Diamond===================
+95:office star============Dell=================
+104:toshiba=======NULL================
+105:hot knobs=======NULL================
+109:power acoustiks=======NULL================
+114:straight talk=========LG=================
+117:flex=======NULL================
+118:g============Jabra=====================
+131:office star=======hp================
+135:office star=======dell================
+141:minisuit=======NULL================
+154:office star=======hp================
+164:cat=======NULL================
+200:premium compatibles=======NULL================
+223:tablet pal============Sungale===========
+229:zebra pen==============Zebra==================
+249:acti========Activity TV N 2(11)================
+261:xtrememac====THUMP N 1(5) OR Xtreme Y 1(6)???========================================
+277:cablesys=============Cables To Go==================
+290:live wire===============NULL====================
+298:office star=========IBM OR LENOVO?===============================================
+314:otc tools======OTC N 1(3)  OR OTC TOOLS???=================
+319:motorola=========EBM-PAPST N 1(9)===============
+325:g============Galaxy=================
+329:wanda============Mi-T-M================
+335:toner for copy&fax,ribbons=========QMS==================
+340:office star============HP================
+342:Null==========THUMP N 1(5)=================TURE NEGATIVE
+344:straight talk==============Samsung=======================
+345:intellinet============intel================
+349:higher ground===========NULL=================
+357:flex============FLEXboot N =============
+
+
+method 1 revised
+13:brother========Brother compatible cartridge doesn’t mean brother=====
+18:ge==========Gentec===============
+20:royal=========Royal Consumer=================
+24:officestar============Dell=============
+25:officestar============Dell=============
+26:blackberry===========null=============
+31:hubbell========HUB CITY===============
+34:caselogic======NULL=====================CASE FOR IPHONE 6 BUT NO BRAND======
+37:premiumcompatibles======NULL=============
+38:officestar============Lenovo=============
+56:flex==========NULL===========
+64:spi==========Nintendo=================
+72:g========Grace Digital================
+82:diamondmultimedia===========Diamond=================
+95:officestar========== Dell====================
+104:toshiba============null=================
+105:hotknobs============null=================
+107:sonnettechnologies==========or sonnet?==============
+109:poweracoustik============null=================
+114:straighttalk=========lg============
+117:flex============null=================
+118:g==========Jabra================
+131:officestar============hp=================
+135:officestar============hp=================
+141:minisuit============null=================
+154:officestar============hp=================
+164:cat============null=================
+200:premiumcompatibles============null=================
+223:tabletpal=========Sungale==================
+249:acti==========Activity===============
+261:xtrememac====THUMP N 1(5) OR Xtreme Y 1(6)???=======================
+290:livewire============null=================
+298:officestar=========IBM OR LENOVO?==============
+314:otctools=======or OTC N 1(3)？？？==============
+319:motorola=========EBM-PAPST N 1(9)===============
+325:g========= Galaxy==================
+329:wanda========Mi-T-M================
+335:tonerforcopy&fax,ribbons========QMS N 1(3)===================
+340:officestar===============hp==============
+342出现了两次？?_?
+342:rapcohorizon==========THUMP N 1(5)================
+342:Null？？？？？？？？？？？？？？？？？？？？？？？？？？
+344:straighttalk======== Samsung=====================
+357:flex======FLEXboot N 1(8)============

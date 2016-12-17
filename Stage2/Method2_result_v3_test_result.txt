@@ -1,0 +1,123 @@
+precision =(120-9)/120 = 92.5%
+recall = (111-4)/(120-4)=92.24%
+
+8:addon
+22:toshiba
+23:quest manufacturing
+28:microsoft
+29:edge memory
+30:samsung
+32:qnap
+33:skullcandy
+35:chamberlain
+39:tripp lite
+42:dell
+46:symantec
+47:innovera
+48:intel
+54:innovera
+55:clarion
+62:sol republic
+68:adtran
+73:roocase
+77:dell
+79:Null                         79:MADCATZ
+84:seagate
+87:sena
+92:kensington
+94:monster cable
+96:transcend
+99:nhl
+102:hp
+106:peerless
+110:ricoh
+112:trident
+113:lewisbins
+115:konami
+119:digipower
+122:gear head
+124:Null                      124:Tripp Lite
+126:crucial
+127:tripp lite
+130:hp
+132:peerless
+133:lenovo
+134:tripp lite
+137:comprehensive
+138:sena
+140:comprehensive cable
+144:hp
+145:hp
+148:dell
+149:hp
+156:dell
+159:avf
+163:startech
+165:innovera
+167:hp
+171:kensington
+173:epson
+176:battery-biz         176:Next Generation
+179:intel
+183:Null                  183:Armor All N
+185:hp
+186:verbatim
+192:viewsonic
+193:hp
+194:toshiba
+196:macally
+197:corlink
+198:promise technology
+202:Null                  202:CAROL N
+203:Null
+204:steelseries
+205:drobo
+206:belkin
+211:ocz
+213:lg
+214:premium compatibles       214:HP
+216:startech
+218:iluv
+219:hp
+222:tucano
+226:corlink
+227:corlink
+230:wacom
+233:panasonic
+234:crosley
+235:comprehensive
+236:masscool
+240:Null
+246:royce leather
+250:sumo
+253:kingston
+265:wiremold
+266:Null
+270:smart caregiver corporation     270:Smart Strip
+271:xerox
+272:spellbinders
+274:g                             274:Sophia Global N
+275:kraftware
+286:apc
+289:monoprice
+296:hp
+301:syba
+303:startech
+311:vena
+312:Null
+313:energizer
+316:v7
+317:roocase
+322:rca
+323:3m
+324:epson
+328:belkin
+332:corlink
+333:innovera
+339:Null                  339:Steele Products N
+347:pentax
+350:peerless
+351:hp
+352:tracfone
+354:monoprice
+356:kensington

@@ -1,0 +1,241 @@
+1:edge memory
+2:cta
+3:hiti
+4:hp
+5:corlink
+6:lenovo
+7:hori
+9:ergotron
+10:delkin
+11:cybertronpc
+12:arris
+13:brother
+14:peerless
+15:innovera
+16:msi
+17:tp-link technologies
+18:ge
+19:dane-elec
+20:royal
+21:celestron
+24:office star
+25:office star
+26:blackberry
+27:msi
+31:hubbell
+34:case logic
+36:sumo
+37:premium compatibles
+38:office star
+40:tripplite
+41:rca
+43:c2g
+44:sabrent
+45:brocade communications
+49:siig
+50:griffin technology
+51:fractal design
+52:duracell
+53:weldcraft
+56:flex
+57:acer
+58:fiber clear
+59:wiremold
+60:xerox
+61:corlink
+63:hp
+64:spi
+65:sandisk
+66:pioneer
+67:sp
+69:terk
+70:intellinet
+71:panasonic
+72:g
+74:energizer
+75:intellinet
+76:msi
+78:midland
+80:panasonic
+81:lenovo
+82:diamond multimedia
+83:cisco
+85:sony
+86:rca
+88:4xem
+89:schneider electric
+90:tripp lite
+91:panasonic
+93:aluratek
+95:office star
+97:hp
+98:addon
+100:panasonic
+101:joby
+103:sony
+104:toshiba
+105:hot knobs
+107:sonnet technologies
+108:panasonic
+109:power acoustik
+111:corlink
+114:straight talk
+116:elite image
+117:flex
+118:g
+120:nikko
+121:hp
+123:solo
+125:tripp lite
+128:wib
+129:upg
+131:office star
+135:office star
+136:belkin
+139:istarusa
+141:minisuit
+142:aten
+143:panasonic
+146:case logic
+147:microsoft
+150:kingston
+151:viper
+152:netgear
+153:seagate
+154:office star
+155:audio-technica
+157:roocase
+158:hp
+160:allsop
+161:evga
+162:able planet
+164:cat
+166:cisco
+168:ricoh
+169:corlink
+170:evga
+172:ihome
+174:seagate
+175:belkin
+177:midland
+178:sumo
+180:evga
+181:cisco
+182:onkyo
+184:vivitar
+187:delkin
+188:microsoft
+189:hp
+190:comtrol
+191:tomtom
+195:codi
+199:tp-link technologies
+200:premium compatibles
+201:plantronics
+207:brother
+208:panamax
+209:cisco
+210:maxell
+212:corlink
+215:tripp lite
+217:memorex
+220:oki
+221:hp
+223:tablet pal
+224:c2g
+225:compucessory
+228:epson
+229:zebra pen
+231:legrand
+232:atdec
+237:avocent
+238:targus
+239:corlink
+241:garmin
+242:sumo
+243:polk audio
+244:ironkey
+245:hkc
+247:crucial
+248:siig
+249:acti
+251:aluratek
+252:dymo
+254:trident
+255:peerless
+256:startech
+257:plantronics
+258:cisco
+259:dayton
+260:nolan
+261:xtrememac
+262:cliff keen
+263:lacie
+264:compucessory
+267:startech
+268:imation
+269:oki
+273:ironkey
+276:startech
+277:cablesys
+278:lacie
+279:siig
+280:masscool
+281:axiom
+282:cisco
+283:naki
+284:manhattan
+285:apc
+287:hp
+288:acer
+290:live wire
+291:kingston
+292:tp-link technologies
+293:comprehensive
+294:oki
+295:altronix
+297:lenovo
+298:office star
+299:greatshield
+300:tucano
+302:kingston
+304:targus
+305:hp
+306:peerless
+307:corlink
+308:istarusa
+309:solo
+310:inland
+314:otc tools
+315:cooler master
+318:tripp lite
+319:motorola
+320:viking
+321:corlink
+325:g
+326:4xem
+327:weatherproof
+329:wanda
+330:tripplite
+331:quantum
+334:manhattan
+335:toner for copy&fax,ribbons
+336:level mount
+337:cybertronpc
+338:sumo
+340:office star
+341:epson
+342:rapco horizon
+342:Null
+343:middle atlantic
+344:straight talk
+345:intellinet
+346:supersonic
+348:lexmark
+349:higher ground
+353:corlink
+355:siig
+357:flex
+358:greatshield
+359:hjc
+360:memorex

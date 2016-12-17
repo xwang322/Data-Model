@@ -1,0 +1,362 @@
+1:EDGE Y 1(4)
+2:CTA Y 1(3)
+3:HiTi Y 1(4)
+4:HP Y 1(2)
+5:Corlink Y 1(7) ¡°Juniper¡±
+6:Lenovo Y 1(6) ¡°Intel¡±
+7:Hori Y 1(4)
+8:AddOn Y 1(5) ¡°Dell¡±
+9:Ergotron Y 1(8)
+10:Delkin Y 1(6)
+11:CybertronPC Y 1(11) ¡°Intel;Microsoft¡±
+12:ARRIS Y 1(5) f:1     ;Motorola Y 1(8) f:1694=========which one to choose?=============
+13:Null or Brother Y 1(7)? ========Brother compatible cartridge doesn¡¯t mean brother=====
+14:Peerless Y 1(8)
+15:Innovera Y 1(8)
+16:MSI Y 1(3) ¡°Intel;NVIDIA¡±
+17:TP-LINK Y 1(7)
+18:Gentec Y 1(6)
+19:Dane-Elec Y 1(9)
+20:Royal Consumer Y 2(14)
+21:Celestron Y 1(9)
+22:Toshiba Y 1(7)
+23:Quest Manufacturing Y 2(19)
+24:Dell Y 1(4)
+25:Dell Y 1(4)
+26:NULL
+27:Msi Y 1(3)
+28:Microsoft Y 1(9)
+29:EDGE Y 1(4)
+30:Samsung Y 1(7)
+31:HUB CITY Y 2(8)
+32:Qnap Y 1(4) ¡°Cortex¡±
+33:Skullcandy Y 1(10)
+34:NULL=====================CASE FOR IPHONE 6 BUT NO BRAND=======================
+35:Chamberlain Y 1(11)
+36:Sumo Y 1(4)
+37:NULL
+38:Lenovo Y 1(6)
+39:Tripp Lite Y 2(10)
+40:Tripplite Y 1(9)
+41:RCA Y 1(3)
+42:Dell Y 1(4)
+43:C2G Y 1(3)
+44:Sabrent Y 1(7)
+45:Brocade Y 1(7)
+46:Symantec Y 1(8)
+47:INNOVERA Y 1(8)
+48:Intel Y 1(5)
+49:SIIG Y 1(4)
+50:Griffin Slim Keyboard/Cover Case (Folio) for iPad=====NOT SURE IS GRIFFIN THE SAME AS GRIFFIN TECHNOLOGY===================================================================================
+51:Fractal Design Y 2(14)
+52:Duracell Y 1(8)
+53:Weldcraft Y 1(9)
+54:INNOVERA Y 1(8)
+55:Clarion Y 1(7)
+56:50FT FLEXboot Series 24AWG Cat5e 350MHz UTP Bare Copper Ethernet Network Cable - Pink
+NULL===============================================================================
+57:Acer Y 1(4)
+58:Fiber Optic Cable, SC/SC, OM2, Multi Mode, Duplex - 9 meter (50/125 Type) - Orange
+NULL===============================================================================
+59:Wiremold Y 1(8)
+60:Xerox Y 1(5)
+61:Corlink Y 1(7) ¡°Juniper¡± 
+62:SOL REPUBLIC Y 2(12)
+63:HP Y 1(2)
+64:Nintendo Y 1(8)
+65:SanDisk Y 1(7)
+66:Pioneer Y 1(7)
+67:SpaceSaver Y 1(10)
+68:Adtran Y 1(6)
+69:Terk Y 1(4)
+70:Intel Y 1(5)
+71:Panasonic Y 1(9) ¡°Intel¡±
+72:Grace Digital Y 2(13)
+73:roocase Y 1(7)
+74:Energizer Y 1(9)
+75:Intel Y 1(5)
+76:MSI Y 1(3) ¡°Xerox¡± 
+77:Dell Optiplex Y 2(13)
+78:Midland Y 1(7)
+79:MADCATZ Y 1(7)=======Madcatz/Saitek Y 2(14) IN THE DICT?========================
+80:Panasonic Y 1(9) ¡°Intel¡±
+81:Lenovo Y 1(6)
+82:Diamond Y 1(7)
+83:Cisco Y 1(5)
+84:Seagate Y 1(7)
+85:SONY Y 1(4)
+86:RCA Y 1(3)
+87:SENA Y 1(4)
+88:4XEM Y 1(4)
+89:SCHNEIDER ELECTRIC Y 2(18)
+90:Tripp Lite Y 2(10)
+91:Panasonic Y 1(9)
+92:Kensington Y 1(10)
+93:Aluratek Y 1(8)
+94:Monster Cable Y 2(13)
+95:Dell Y 1(4)
+96:Transcend Y 1(9)
+97:HP Y 1(2) ¡°AMD¡±
+98:AddOn Y 1(5)
+99:NHL Y 1(3)
+100:Panasonic Y 1(9) ¡°Intel¡±
+101:Joby Y 1(4)
+102:HP Y 1(2)
+103:Sony Y 1(4)
+104:NULL
+105:NULL
+106:Peerless Y 1(8)
+107:Sonnet ==========Sonnet Technologies????=============================================
+108:Panasonic Y 1(9)
+109:NULL
+110:Ricoh Y 1(5)
+111:Corlink Y 1(7)
+112:Trident Y 1(7)
+113:LEWISBINS Y 1(9)
+114:LG Y 1(2)
+115:Konami Y 1(6)
+116:Elite Image Y 2(11)
+117:NULL
+118:Jabra Y 1(5)
+119:Digipower 1 Y(9) ¡°Nikon¡±
+120:NIKKO Y 1(5)
+121:HP Y 1(2) "Multiple Hp related"
+122:Gear Head Y 2(9)
+123:Solo Y 1(4) "Solo and Solo USA are the same?"
+124:Tripp Lite Y 2(10) "Tripp Lite and Tripplite and one other is probably same"
+125:Tripp Lite Y 2(10) "Tripp Lite and Tripplite and one other is probably same"
+126:Crucial Y 1(7)
+127:Tripp Lite Y 2(10) "Tripp Lite and Tripplite and one other is probably same"
+128:WIB y 1(3)
+129:UPG Y 1(3)
+130:HP Y 1(2) "Combine with other HP related"
+131:HP Y 1(2) "Combine with other HP related"
+132:Peerless Y 1(8) "related are all the same?"
+133:Lenovo Y 1(6)
+134:Tripp Lite Y 2(10) "Tripp Lite and Tripplite and one other is probably same"
+135:Dell Optiplex Y 2(13) "Dell or Dell Optiplex?"
+136:Belkin Y 1(6) "Belkin and Belkin Components"
+137:comprehesiove Y 1(13)
+138:Sena Y 1(4)
+139:iStarUSA Y 1(8) "capitalized one and lower case one"
+140:comprehesiove Y 1(13)
+141:Null N
+142:ATEN Y 1(4)
+143:Panasonic Y 1(9) "Panasonic related"
+144:HP Y 1(2) "Combine with other HP related"
+145:HP Y 1(2) "Combine with other HP related"
+146:Case Logic Y 2(10)
+147:Microsoft Y 1(9) "Microsoft/Dreamgear is the same as Microsoft?"
+148:Dell Y 1(4) "Dell and Dell, Inc need to combine"
+149:HP Y 1(2) "Combine with other HP related"
+150:Kingston Y 1(8) "Kingston and Kingston Value Ram and Kingston Memory"
+151:Viper Y 1(5)
+152:NETGEAR Y 1(7)
+153:Seagate Y 1(7) "Seagate and Seagate Technology"
+154:HP Y 1(2) "Combine with other HP related"
+155:Audio Technica Y 2(14)
+156:Dell Y 1(4) "Dell and Dell, Inc need to combine"
+157:rooCASE Y 1 (7)
+158:HP Y 1(2) "Combine with other HP related"
+159:AVF Y 1(3)
+160:Allsop Y 1(6)
+161:EVGA Y 1(4)
+162:Able Planet Y 2(11)
+163:StarTech.com Y 1(8)
+164:Null N
+165:Innovera Y 1(8) "Capitalized and lower case are same"
+166:Cisco Y 1(5) "Cisco and Cisco Systems are the same?"
+167:HP Y 1(2) "Combine with other HP related"
+168:Ricoh Y 1(5)
+169:Corlink Y 1(7)
+170:EVGA Y 1(4)
+171:Kensington Y 1(10)
+172:iHome Y 1(5)
+173:Epson Y 1(5) "epson and epson america?"
+174:Seagate Y 1(7) "Seagate and Seagate Technology"
+175:Belkin Y 1(6) "Belkin and Belkin Components"
+176:Next Generation Y 2(15)
+177:Midland Y 1(7) "Midland or Midland radio?"
+178:Sumo Y 1(4)
+179:Intel Y 1(5) "Intel and intel and Intel Corp are the same"
+180:EVGA Y 1(4)
+181:Cisco Y 1(5) "Cisco and Cisco Systems are the same?"
+182:Onkyo Y 1(5)
+183:Armor All N 2(9)
+184:Vivitar Y 1(7)
+185:HP Y 1(2) "Combine with other HP related"
+186:Verbatim Y 1(8)
+187:Delkin Y 1(6) "Delkin and Delkin devices are the same"
+188:Microsoft Y 1(9) "Microsoft/Dreamgear is the same as Microsoft?"
+189:HP Y 1(2) "Combine with other HP related"
+190:Comtrol Y 1(7)
+191:TomTom Y 1(6)
+192:Viewsonic Y 1(9) "Viewsonic and Viewsonic corporation is the same"
+193:HP Y 1(2) "Combine with other HP related"
+194:Toshiba Y 1(7) "Toshiba and Toshiba Notebooks are the same"
+195:CODi Y 1(4)
+196:Macally Y 1(7)
+197:Corlink Y 1(7)
+198:Promise Y 1(7) "Promise and Promise Technology are the same"
+199:TP-LINK Y 1(7) "TP-LINK tech and capitalized related"
+200:Null N
+201:Plantronics Y 1(11)
+202:CAROL N 1(5)
+203:Null N
+204:SteelSeries Y 1(11)
+205:Drobo Y 1(5)
+206:Belkin Y 1(6) "Belkin and Belkin Components"
+207:Brother Y 1(7) "Brother and Brother International Inc. is the same?"
+208:Panamax Y 1(7) "Panamax or Panamax PF Power"
+209:Cisco Y 1(5) "Cisco and Cisco Systems are the same?"
+210:Maxell Y 1(6) "maxell and 2 others are the same?"
+211:Ocz Y 1(3) "Ocz and Ocz Storage Solutions and Ocz Toshiba are the same"
+212:Corlink Y 1(7)
+213:LG Y 1(2) "LG and LG Electronics"
+214:HP Y 1(2) "Combine with other HP related"
+215:Tripp Lite Y 2(10) "Tripp Lite and Tripplite and one other is probably same" 
+216:StarTech Y 1(8) "Cisco and Cisco Systems are the same?"
+217:Memorex Y 1(7)
+218:iLuv Y 1(4)
+219:HP Y 1(2) "Combine with other HP related"
+220:Oki Y 1(3) "Oki data is what?"
+221:HP Y 1(2) "Combine with other HP related"
+222:Tucano Y 1(6)
+223:Sungale Y 1(7) "typo with one more S"
+224:C2G Y 1(3)
+225:Compucessory Y 1(12)
+226:Corlink Y 1(7)
+227:Corlink Y 1(7)
+228:Epson Y 1(5) "epson and epson america?"
+229:Zebra Y 1(5) "differences with related?"
+230:Wacom Y 1(5)
+231:Legrand Y 1(7) "Legrand combine with OnQ?"
+232:Atdec Y 1(5)
+233:Panasonic Y 1(9) "what is consumer and panasonic difference"
+234:Crosley Y 1(7)
+235:Comprehensive Y 1(13)
+236:Masscool Y 1(8)
+237:Avocent Y 1(7) "Avocent and Avocent Corporation are the same"
+238:Targus Y 1(6) "Targus and mobile"
+239:Corlink Y 1(7)
+240:Null N
+241:Garmin Y 1(6)
+242:Sumo Y 1(4)
+243:Polk Audio Y 2(10)
+244:Ironkey Y 1(7)
+245:HKC Y 1(3)
+246:Royce Leather Y 2(13)
+247:Crucial Y 1(7)
+248:SIIG Y 1(4)
+249:Activity TV N 2(11)
+250:Sumo Y 1(4)
+251:Aluratek Y 1(9)
+252:Dymo Y 1(4)
+253:Kingston Y 1(8)
+254:Trident Y 1(7) ¡°Samsung¡±
+255:Peerless Y 1(8)
+256:Startech.com Y 1(12)
+257:Plantronics Y 1(11)
+258:Cisco Y 1(5)
+259:DAYTON Y 1(6)
+260:Nolan Y 1(5)
+261:THUMP Xtreme ====THUMP N 1(5) OR Xtreme Y 1(6)???=========================================
+262:Cliff Keen Y 2(10)
+263:LaCie Y 1(5)
+264:COMPUCESSORY Y 1(12)
+265:Wiremold Y 1(8)
+266:NULL=================================================================================
+267:StarTech.com Y 1(12)
+268:imation Y 1(7)
+269:Oki Y 1(3)
+270:Smart Strip Y 2(11)
+271:Xerox Y 1(5)
+272:Spellbinders Y 1(12)
+273:Ironkey Y 1(7)
+274:Sophia Global N 2(13)
+275:Kraftware Y 1(9)
+276:Startech.com Y 1(12)
+277:Cables To Go Y 3(12)
+278:LaCie Y 1(5)
+279:SIIG Y 1(4)
+280:Masscool Y 1(8)
+281:Axiom Y 1(5)
+282:Cisco Y 1(5)
+283:Naki Y 1(4)
+284:Manhattan Y 1(9)
+285:APC Y 1(3)
+286:APC Y 1(3)
+287:HP Y 1(2)
+288:Acer Y 1(4)
+289:Monoprice Y 1(9)
+290:NULL
+291:Kingston Y 1(8)
+292:TP-LINK Y 1(7)
+293:Comprehensive Y 1(13)
+294:Oki Y 1(3)
+295:ALTRONIX Y 1(8)
+296:HP Y 1(2)
+297:Lenovo Y 1(6) ¡°Intel¡± 
+298:IBM Lenovo =========IBM OR LENOVO?==================================================
+299:GreatShield Y 1(11)
+300:Tucano Y 1(6)
+301:SYBA Y 1(4)
+302:Kingston Y 1(8) ¡°Intel¡± 
+303:StarTech.com Y 1(12)
+304:Targus Y 1(6)
+305:HP Y 1(2) ¡°Intel¡±
+306:Peerless Y 1(8)
+307:Corlink Y 1(7)
+308:iStarUSA Y 1(8)
+309:Solo Y 1(4)
+310:Inland Y 1(6)
+311:VENA Y 1(4) ¡°Apple¡±
+312:Capacitor, Universal, 200 Motors======NULL?? OR UNIVERSAL PRODUCTS===========================
+313:Energizer Y 1(9)
+314:OTC N 1(3) ====== OR OTC TOOLS???============================================================
+315:Cooler Master Y 2(13)
+316:V7 Y 1(2)
+317:roocase Y 1(7)
+318:Tripp Lite Y 2(10)
+319:EBM-PAPST N 1(9)
+320:Viking Y 1(6)
+321:Corlink Y 1(7)
+322:RCA Y 1(3)
+323:3M Y 1(2)
+324:Epson Y 1(5)
+325:Galaxy Y 1(6)
+326:4XEM Y 1(4)
+327:Weatherproof Y 1(12)
+328:Belkin Y 1(6)
+329:Mi-T-M N 1(6)
+330:TrippLite Y 1(9)
+331:Quantum Y 1(7)
+332:Corlink Y 1(7) ¡°Avaya¡±
+333:Innovera Y 1(8)
+334:Manhattan Y 1(9)
+335:QMS N 1(3)
+336:Level Mount Y 2(11)
+337:CybertronPC Y 1(11)
+338:Sumo Y 1(4)
+339:Steele Products N 2(15)
+340:HP Y 1(2)
+341:Epson Y 1(5)
+342:THUMP N 1(5)
+343:Middle Atlantic Y 2(15)
+344:Samsung Y 1(7)
+345:Intel Y 1(5)
+346:Supersonic Y 1(10)
+347:Pentax Y 1(6)
+348:Lexmark Y 1(7)
+349:NULL
+350:Peerless Y 1(8)
+351:HP Y 1(2) ¡°Inte¡±
+352:TracFone Y 1(8)
+353:Corlink Y 1(7) ¡°Cisco¡±
+354:Monoprice Y 1(9)
+355:SIIG Y 1(4)
+356:Kensington Y 1(10)
+357:FLEXboot N 1(8)
+358:GreatShield Y 1(11)
+359:HJC Y 1(3)
+360:Memorex Y 1(7)
