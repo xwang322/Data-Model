@@ -1,0 +1,28 @@
+python file describe:
+1. feature vector.py: stage 3 file, for 59 different feature vectors, no need for this file, just if you want to check something
+2. New feature vector.py: what I propose this stage, round 2, has several functions which need to mention here
+I list 8 feature attrs, 50 or 60 common words for you to get rid of in description, some units which are reasonable in our stage
+first, get a big combination of type, segment, brand and category into a big list for 2 products, find just if something is in combo 1. if in, flag1 = 1 and take that out(maybe I should count how many in and may be no need to take them out?) do same thing to product 2 name with combo 2, flag3 is for see if something is in product 1 name in combo 2, and flag4 is for product 2 name in combo 1. Then take away frequent words, fla 5 6 7 8 is for see if one product name has something in another product long/short description, may also count the numbers as well
+
+ParseUnit: this is for taking out unit inside the data, will catch the tokenized "number+unit" or "unit" but if right before that is a number, will combine them together as a whole "num+unit"
+Using this function, I got product 1 and product 2 all "number+unit" combination (may not complete, but should be right as long as it gets something)
+For doing this, I do for all product name normal case, lower case and upper case because I found sometimes you have to use this to get as many as possible and as correctly as possible
+
+UnitCheck: check if extraction is within valid unit
+
+UnitExtraction: something related, I am not sure, I need to run this, but should be a verification function
+
+SpecialExtraction: return all non-number and non-word ones
+
+flag 9 10 11 12 see if special special extraction in long/short description
+flag13 to check refurbished in the name or not
+13-24, calculate 4 kinds of set based sim functions to name, unit and special
+
+
+string_process 4 is higher version than 3, ignore 3, 4 is enough, 4 is for processing words and strings, get rid of those non-sense words
+
+ProductID_extraction: get a file and tell how many inside has manufacturer part number and tell if the pair has both and they are the same or not
+
+missing_attr: something we have tried but not working, 0 and 0.6 one, I think you know what I mean here, skip the details
+
+ParseLabel: help to write a file with label number on it, use to check each round the left unknown tuple
